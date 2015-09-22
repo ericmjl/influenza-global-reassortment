@@ -1,0 +1,503 @@
+Country,Species,Habitat/setting
+Canada,American Black Duck/Avian,Wild
+USA,American Black Duck/Avian,Wild
+USA,American Green-Winged Teal/Avian,Wild
+Canada,American Wigeon/Avian,Wild
+USA,American Wigeon/Avian,Wild
+India,Aquatic Bird/Avian,Wild
+South Korea,Aquatic Bird/Avian,Wild
+Viet Nam,Aquatic Bird/Avian,Wild
+Hong Kong,Avian,Unknown
+Israel,Avian,Unknown
+Japan,Avian,Unknown
+Saudi Arabia,Avian,Unknown
+USA,Avian,Unknown
+Viet Nam,Babbler/Avian,Wild
+China,Baikal Teal/Avian,Wild
+South Korea,Baikal Teal/Avian,Wild
+China,Bar-Headed Goose/Avian,Wild
+Mongolia,Bar-Headed Goose/Avian,Wild
+Hong Kong,Barn Swallow/Avian,Wild
+Netherlands,Barnacle Goose/Avian,Wild
+Netherlands,Bewick's Swan/Avian,Wild
+China,Bird/Avian,Wild
+South Korea,Bird/Avian,Wild
+USA,Bird/Avian,Wild
+Viet Nam,Bird/Avian,Wild
+Australia,Black Duck/Avian,Wild
+USA,Black Duck/Avian,Wild
+Canada,Black Scoter/Avian,Wild
+USA,Black Scoter/Avian,Wild
+China,Black-Billed Magpie/Avian,Wild
+Georgia,Black-Headed Gull/Avian,Wild
+Iceland,Black-Headed Gull/Avian,Wild
+Mongolia,Black-Headed Gull/Avian,Wild
+Netherlands,Black-Headed Gull/Avian,Wild
+Sweden,Black-Headed Gull/Avian,Wild
+Canada,Blue-Winged Teal/Avian,Wild
+Guatemala,Blue-Winged Teal/Avian,Wild
+USA,Blue-Winged Teal/Avian,Wild
+China,Brown-Headed Gull/Avian,Wild
+Canada,Bufflehead/Avian,Wild
+USA,Bufflehead/Avian,Wild
+Mongolia,Camel,Domestic
+Canada,Canada Goose/Avian,Wild
+USA,Canada Goose/Avian,Wild
+China,Canvasback/Avian,Wild
+Afghanistan,Chicken/Avian,Domestic
+Australia,Chicken/Avian,Domestic
+Bangladesh,Chicken/Avian,Domestic
+Bhutan,Chicken/Avian,Domestic
+Cambodia,Chicken/Avian,Domestic
+Canada,Chicken/Avian,Domestic
+China,Chicken/Avian,Domestic
+Cote dIvoire,Chicken/Avian,Domestic
+Egypt,Chicken/Avian,Domestic
+Germany,Chicken/Avian,Domestic
+Guatemala,Chicken/Avian,Domestic
+Hong Kong,Chicken/Avian,Domestic
+India,Chicken/Avian,Domestic
+Indonesia,Chicken/Avian,Domestic
+Iran,Chicken/Avian,Domestic
+Israel,Chicken/Avian,Domestic
+Italy,Chicken/Avian,Domestic
+Japan,Chicken/Avian,Domestic
+Kuwait,Chicken/Avian,Domestic
+Laos,Chicken/Avian,Domestic
+Mexico,Chicken/Avian,Domestic
+Myanmar,Chicken/Avian,Domestic
+Netherlands,Chicken/Avian,Domestic
+Nigeria,Chicken/Avian,Domestic
+Pakistan,Chicken/Avian,Domestic
+Poland,Chicken/Avian,Domestic
+Russia,Chicken/Avian,Domestic
+South Korea,Chicken/Avian,Domestic
+Sudan,Chicken/Avian,Domestic
+Taiwan,Chicken/Avian,Domestic
+Thailand,Chicken/Avian,Domestic
+USA,Chicken/Avian,Domestic
+United Arab Emirates,Chicken/Avian,Domestic
+Viet Nam,Chicken/Avian,Domestic
+China,Chinese Francolin/Avian,Wild
+Hong Kong,Chukar/Avian,Wild
+USA,Chukar/Avian,Wild
+Mexico,Cinnamon Teal/Avian,Wild
+USA,Cinnamon Teal/Avian,Wild
+Canada,Common Coot/Avian,Wild
+South Korea,Common Coot/Avian,Wild
+Netherlands,Common Eider/Avian,Wild
+USA,Common Eider/Avian,Wild
+Mongolia,Common Goldeneye/Avian,Wild
+USA,Common Goldeneye/Avian,Wild
+USA,Common Murre/Avian,Wild
+USA,Common Scoter/Avian,Wild
+China,Condor/Avian,Wild
+USA,Coot/Avian,Wild
+China,Crane/Avian,Wild
+Japan,Crane/Avian,Wild
+India,Crow/Avian,Wild
+Japan,Crow/Avian,Wild
+China,Dog,Domestic
+South Korea,Dog,Domestic
+Taiwan,Dog,Domestic
+USA,Dog,Domestic
+China,Domestic Cat,Domestic
+South Korea,Domestic Cat,Domestic
+USA,Dove/Avian,Wild
+Viet Nam,Dove/Avian,Wild
+Australia,Duck/Avian,Wild
+Bangladesh,Duck/Avian,Domestic
+Cambodia,Duck/Avian,Domestic
+Canada,Duck/Avian,Wild
+China,Duck/Avian,Domestic
+Cote dIvoire,Duck/Avian,Domestic
+Denmark,Duck/Avian,Wild
+Egypt,Duck/Avian,Domestic
+France,Duck/Avian,Wild
+Georgia,Duck/Avian,Wild
+Germany,Duck/Avian,Wild
+Hong Kong,Duck/Avian,Domestic
+Indonesia,Duck/Avian,Domestic
+Italy,Duck/Avian,Wild
+Japan,Duck/Avian,Domestic
+Laos,Duck/Avian,Domestic
+Malaysia,Duck/Avian,Domestic
+Mongolia,Duck/Avian,Wild
+Niger,Duck/Avian,Wild
+Russia,Duck/Avian,Wild
+South Korea,Duck/Avian,Domestic
+Taiwan,Duck/Avian,Domestic
+Thailand,Duck/Avian,Domestic
+USA,Duck/Avian,Wild
+Viet Nam,Duck/Avian,Domestic
+Zambia,Duck/Avian,Domestic
+Sweden,Dunlin/Avian,Wild
+Japan,Eagle/Avian,Wild
+China,Egret/Avian,Wild
+Hong Kong,Egret/Avian,Wild
+Australia,Emu/Avian,Wild
+USA,Emu/Avian,Wild
+Bangladesh,Environment,Unknown
+Cambodia,Environment,Unknown
+China,Environment,Unknown
+Hong Kong,Environment,Unknown
+Laos,Environment,Unknown
+South Korea,Environment,Unknown
+USA,Environment,Unknown
+Viet Nam,Environment,Unknown
+South Korea,Eurasian Eagle-Owl/Avian,Wild
+China,Eurasian Teal/Avian,Wild
+Hong Kong,Eurasian Wigeon/Avian,Wild
+Netherlands,Eurasian Wigeon/Avian,Wild
+Sweden,Eurasian Wigeon/Avian,Wild
+Japan,Falcon/Avian,Wild
+Saudi Arabia,Falcon/Avian,Wild
+USA,Falcon/Avian,Wild
+Indonesia,Ferret,Wild
+Taiwan,Ferret,Wild
+China,Finch/Avian,Wild
+Viet Nam,Flycatcher/Avian,Wild
+Canada,Gadwall/Avian,Wild
+Russia,Gadwall/Avian,Wild
+USA,Gadwall/Avian,Wild
+China,Garganey/Avian,Wild
+Georgia,Garganey/Avian,Wild
+Russia,Garganey/Avian,Wild
+Iceland,Glaucous Gull/Avian,Wild
+Canada,Goose/Avian,Wild
+China,Goose/Avian,Domestic
+Egypt,Goose/Avian,Domestic
+Hungary,Goose/Avian,Wild
+Iceland,Goose/Avian,Wild
+India,Goose/Avian,Domestic
+Netherlands,Goose/Avian,Wild
+Russia,Goose/Avian,Wild
+South Korea,Goose/Avian,Domestic
+USA,Goose/Avian,Wild
+Viet Nam,Goose/Avian,Domestic
+China,Great Black-Headed Gull/Avian,Wild
+Russia,Great Crested Grebe/Avian,Wild
+USA,Greater Scaup/Avian,Wild
+USA,Greater White-Fronted Goose/Avian,Wild
+China,Grebe/Avian,Wild
+Russia,Grebe/Avian,Wild
+USA,Grebe/Avian,Wild
+Canada,Green-Winged Teal/Avian,Wild
+China,Green-Winged Teal/Avian,Wild
+USA,Green-Winged Teal/Avian,Wild
+Hong Kong,Grey Heron/Avian,Wild
+USA,Guinea Fowl/Avian,Wild
+Hong Kong,Guineafowl/Avian,Domestic
+Italy,Guineafowl/Avian,Wild
+Nigeria,Guineafowl/Avian,Domestic
+USA,Guineafowl/Avian,Wild
+Georgia,Gull/Avian,Wild
+Iceland,Gull/Avian,Wild
+Russia,Gull/Avian,Wild
+USA,Gull/Avian,Wild
+Hong Kong,Heron/Avian,Wild
+Iceland,Herring Gull/Avian,Wild
+Mongolia,Herring Gull/Avian,Wild
+Netherlands,Herring Gull/Avian,Wild
+USA,Herring Gull/Avian,Wild
+Canada,Hooded Merganser/Avian,Wild
+Argentina,Horse,Domestic
+Austria,Horse,Domestic
+China,Horse,Domestic
+Germany,Horse,Domestic
+Italy,Horse,Domestic
+Romania,Horse,Domestic
+South Africa,Horse,Domestic
+South Korea,Horse,Domestic
+Switzerland,Horse,Domestic
+USA,Horse,Domestic
+United Kingdom,Horse,Domestic
+Argentina,Human,Human
+Australia,Human,Human
+Austria,Human,Human
+Belgium,Human,Human
+Bolivia,Human,Human
+Brazil,Human,Human
+Cambodia,Human,Human
+Canada,Human,Human
+Chile,Human,Human
+China,Human,Human
+Colombia,Human,Human
+Czech Republic,Human,Human
+Denmark,Human,Human
+Dominican Republic,Human,Human
+Ecuador,Human,Human
+Egypt,Human,Human
+El Salvador,Human,Human
+Estonia,Human,Human
+Finland,Human,Human
+France,Human,Human
+Germany,Human,Human
+Greece,Human,Human
+Guam,Human,Human
+Hong Kong,Human,Human
+Hungary,Human,Human
+India,Human,Human
+Indonesia,Human,Human
+Iraq,Human,Human
+Italy,Human,Human
+Japan,Human,Human
+Kazakhstan,Human,Human
+Kuwait,Human,Human
+Kyrgyzstan,Human,Human
+Lebanon,Human,Human
+Luxembourg,Human,Human
+Malaysia,Human,Human
+Mexico,Human,Human
+Mongolia,Human,Human
+Myanmar,Human,Human
+Nepal,Human,Human
+Netherlands,Human,Human
+New Caledonia,Human,Human
+New Zealand,Human,Human
+Nicaragua,Human,Human
+Norway,Human,Human
+Peru,Human,Human
+Philippines,Human,Human
+Poland,Human,Human
+Qatar,Human,Human
+Russia,Human,Human
+Senegal,Human,Human
+Singapore,Human,Human
+South Africa,Human,Human
+South Korea,Human,Human
+Spain,Human,Human
+Sri Lanka,Human,Human
+Sweden,Human,Human
+Switzerland,Human,Human
+Taiwan,Human,Human
+Thailand,Human,Human
+Turkey,Human,Human
+USA,Human,Human
+Uganda,Human,Human
+United Kingdom,Human,Human
+Viet Nam,Human,Human
+Iceland,Iceland Gull/Avian,Wild
+Viet Nam,Japanese Quail/Avian,Domestic
+Chile,Kelp Gull/Avian,Human
+USA,Knot/Avian,Wild
+China,Large Cat,Unknown
+USA,Large Cat,Unknown
+USA,Laughing Gull/Avian,Wild
+USA,Least Sandpiper/Avian,Wild
+Canada,Lesser Scaup/Avian,Wild
+USA,Lesser Scaup/Avian,Wild
+Hong Kong,Little Egret/Avian,Wild
+China,Little Grebe/Avian,Wild
+Thailand,Little Grebe/Avian,Wild
+USA,Long-Tailed Duck/Avian,Wild
+Hong Kong,Magpie Robin/Avian,Wild
+China,Magpie/Avian,Wild
+Canada,Mallard Duck/Avian,Wild
+Canada,Mallard-Black Duck Hybrid/Avian,Wild
+Belgium,Mallard/Avian,Wild
+Canada,Mallard/Avian,Wild
+China,Mallard/Avian,Wild
+France,Mallard/Avian,Wild
+Georgia,Mallard/Avian,Wild
+Germany,Mallard/Avian,Wild
+Iceland,Mallard/Avian,Wild
+Italy,Mallard/Avian,Wild
+Japan,Mallard/Avian,Wild
+Netherlands,Mallard/Avian,Wild
+New Zealand,Mallard/Avian,Wild
+Portugal,Mallard/Avian,Wild
+Russia,Mallard/Avian,Wild
+South Korea,Mallard/Avian,Wild
+Spain,Mallard/Avian,Wild
+Sweden,Mallard/Avian,Wild
+USA,Mallard/Avian,Wild
+Viet Nam,Mallard/Avian,Wild
+USA,Mink,Wild
+Canada,Murre/Avian,Wild
+China,Muscovy Duck/Avian,Domestic
+France,Muscovy Duck/Avian,Domestic
+Russia,Muscovy Duck/Avian,Domestic
+USA,Muscovy Duck/Avian,Wild
+Viet Nam,Muscovy Duck/Avian,Domestic
+Croatia,Mute Swan/Avian,Wild
+Germany,Mute Swan/Avian,Wild
+Hungary,Mute Swan/Avian,Wild
+Italy,Mute Swan/Avian,Wild
+Japan,Mute Swan/Avian,Wild
+Netherlands,Mute Swan/Avian,Wild
+Russia,Mute Swan/Avian,Wild
+USA,Mute Swan/Avian,Wild
+China,Myna/Avian,Wild
+Canada,Northern Pintail/Avian,Wild
+Hong Kong,Northern Pintail/Avian,Wild
+Japan,Northern Pintail/Avian,Wild
+USA,Northern Pintail/Avian,Wild
+Georgia,Northern Shoveler/Avian,Wild
+Hong Kong,Northern Shoveler/Avian,Wild
+Netherlands,Northern Shoveler/Avian,Wild
+USA,Northern Shoveler/Avian,Wild
+Canada,null,Unknown
+Russia,null,Unknown
+USA,null,Unknown
+Thailand,Openbill Stork/Avian,Wild
+China,Ostrich/Avian,Wild
+Italy,Ostrich/Avian,Wild
+Nigeria,Ostrich/Avian,Wild
+South Africa,Ostrich/Avian,Wild
+China,Panda,Wild
+Japan,Parakeet/Avian,Wild
+China,Parrot/Avian,Wild
+USA,Parrot/Avian,Wild
+Taiwan,Partridge/Avian,Wild
+Zambia,Pelican/Avian,Wild
+Hong Kong,Peregrine Falcon/Avian,Wild
+Japan,Peregrine Falcon/Avian,Wild
+Hong Kong,Pheasant/Avian,Wild
+USA,Pheasant/Avian,Wild
+China,Pigeon/Avian,Wild
+Hong Kong,Pigeon/Avian,Wild
+Laos,Pigeon/Avian,Wild
+Russia,Pigeon/Avian,Wild
+Thailand,Pigeon/Avian,Wild
+USA,Pigeon/Avian,Wild
+Iceland,Pink-Footed Goose/Avian,Wild
+Netherlands,Pink-Footed Goose/Avian,Wild
+Canada,Pintail Duck/Avian,Wild
+Canada,Pintail/Avian,Wild
+USA,Pintail/Avian,Wild
+Italy,Poultry/Avian,Domestic
+Bangladesh,Quail/Avian,Domestic
+China,Quail/Avian,Domestic
+Hong Kong,Quail/Avian,Domestic
+Indonesia,Quail/Avian,Domestic
+Italy,Quail/Avian,Domestic
+Japan,Quail/Avian,Domestic
+Lebanon,Quail/Avian,Domestic
+Myanmar,Quail/Avian,Domestic
+Thailand,Quail/Avian,Domestic
+USA,Quail/Avian,Wild
+Viet Nam,Quail/Avian,Domestic
+USA,Red Knot/Avian,Wild
+Mongolia,Red-Crested Pochard/Avian,Wild
+Australia,Red-Necked Stint/Avian,Wild
+Canada,Redhead Duck/Avian,Wild
+Canada,Redhead/Avian,Wild
+USA,Redhead/Avian,Wild
+USA,Rhea/Avian,Wild
+Canada,Ring-Billed Gull/Avian,Wild
+Canada,Ring-Necked Duck/Avian,Wild
+USA,Ring-Necked Duck/Avian,Wild
+Russia,Rook/Avian,Wild
+Argentina,Rosy-Billed Pochard/Avian,Wild
+Canada,Ruddy Turnstone/Avian,Wild
+Iceland,Ruddy Turnstone/Avian,Wild
+Netherlands,Ruddy Turnstone/Avian,Wild
+USA,Ruddy Turnstone/Avian,Wild
+Kuwait,Saker Falcon/Avian,Wild
+USA,Sanderling/Avian,Wild
+Canada,Scaup/Avian,Wild
+Russia,Sea Mammal,Wild
+Brazil,Semipalmated Sandpiper/Avian,Wild
+USA,Semipalmated Sandpiper/Avian,Wild
+Australia,Sharp-Tailed Sandpiper/Avian,Wild
+USA,Shorebird/Avian,Wild
+Canada,Shoveler/Avian,Wild
+Netherlands,Shoveler/Avian,Wild
+China,Shrike/Avian,Wild
+China,Silky Chicken/Avian,Domestic
+Hong Kong,Silky Chicken/Avian,Domestic
+USA,Sloth Bear,Wild
+Canada,Snow Goose/Avian,Wild
+USA,Snow Goose/Avian,Wild
+USA,Softbill/Avian,Wild
+Australia,Sooty Tern/Avian,Wild
+China,Sparrow/Avian,Wild
+China,Spot-Billed Duck/Avian,Domestic
+Australia,Starling/Avian,Wild
+Russia,Starling/Avian,Wild
+Cambodia,Stork/Avian,Wild
+Canada,Swan/Avian,Wild
+China,Swan/Avian,Wild
+Germany,Swan/Avian,Wild
+Japan,Swan/Avian,Wild
+Slovenia,Swan/Avian,Wild
+USA,Swan/Avian,Wild
+Belgium,Swine,Domestic
+Brazil,Swine,Domestic
+Canada,Swine,Domestic
+China,Swine,Domestic
+Czech Republic,Swine,Domestic
+Denmark,Swine,Domestic
+Finland,Swine,Domestic
+France,Swine,Domestic
+Germany,Swine,Domestic
+Hong Kong,Swine,Domestic
+Hungary,Swine,Domestic
+Indonesia,Swine,Domestic
+Italy,Swine,Domestic
+Japan,Swine,Domestic
+Kazakhstan,Swine,Domestic
+Kenya,Swine,Domestic
+Mexico,Swine,Domestic
+Netherlands,Swine,Domestic
+Norway,Swine,Domestic
+Ontario,Swine,Domestic
+Poland,Swine,Domestic
+South Korea,Swine,Domestic
+Spain,Swine,Domestic
+Taiwan,Swine,Domestic
+Thailand,Swine,Domestic
+USA,Swine,Domestic
+United Kingdom,Swine,Domestic
+Viet Nam,Swine,Domestic
+Australia,Teal/Avian,Wild
+Georgia,Teal/Avian,Wild
+Hong Kong,Teal/Avian,Wild
+Italy,Teal/Avian,Wild
+Netherlands,Teal/Avian,Wild
+Russia,Teal/Avian,Wild
+South Korea,Teal/Avian,Wild
+USA,Teal/Avian,Wild
+Thailand,Tree Sparrow/Avian,Wild
+Japan,Tufted Duck/Avian,Wild
+Portugal,Tufted Duck/Avian,Wild
+Japan,Tundra Swan/Avian,Wild
+South Korea,Tundra Swan/Avian,Wild
+USA,Tundra Swan/Avian,Wild
+Canada,Turkey/Avian,Domestic
+Cote dIvoire,Turkey/Avian,Domestic
+Egypt,Turkey/Avian,Domestic
+France,Turkey/Avian,Domestic
+Israel,Turkey/Avian,Domestic
+Italy,Turkey/Avian,Domestic
+Poland,Turkey/Avian,Domestic
+Russia,Turkey/Avian,Domestic
+Saudi Arabia,Turkey/Avian,Domestic
+USA,Turkey/Avian,Domestic
+Canada,Unknown,Unknown
+China,Unknown,Unknown
+Latvia,Unknown,Unknown
+Russia,Unknown,Unknown
+USA,Unknown,Unknown
+China,Waterfowl/Avian,Wild
+Hong Kong,Waterfowl/Avian,Wild
+Japan,Waterfowl/Avian,Wild
+South Korea,Waterfowl/Avian,Wild
+USA,Waterfowl/Avian,Wild
+Canada,Weasel,Wild
+Germany,Weasel,Wild
+Sweden,Weasel,Wild
+USA,Weasel,Wild
+Egypt,Whiskered Tern/Avian,Wild
+USA,White-Fronted Goose/Avian,Wild
+Canada,White-Rumped Sandpiper/Avian,Wild
+USA,White-Winged Scoter/Avian,Wild
+Iran,Whooper Swan/Avian,Wild
+Japan,Whooper Swan/Avian,Wild
+Mongolia,Whooper Swan/Avian,Wild
+Russia,Whooper Swan/Avian,Wild
+Canada,Widgeon/Avian,Wild
+China,Wild Chicken/Avian,Wild
+China,Wild Duck/Avian,Wild
+Canada,Wood Duck/Avian,Wild
