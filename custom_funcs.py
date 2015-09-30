@@ -2,8 +2,19 @@ from random import shuffle, choice
 import pandas as pd
 from itertools import combinations
 
-# For cleaning host species names.
 def clean_host_species_names(G):
+    """
+    Cleans host species names according to rules specified.
+
+    Parameters:
+    ===========
+    - G: (nx.DiGraph) The network of viral isolates.
+
+    Returns:
+    ========
+    - G: (nx.DiGraph) The network of viral isolates, with host species names 
+         cleaned.
+    """
     for n, d in G.nodes(data=True):
         host_species = d['host_species']
         if '/' in host_species:
