@@ -55,13 +55,13 @@ def impute_weights(G):
 
     ### ACTUAL FUNCTION BEGINS BELOW ###
     for n, d in G.nodes(data=True):
-        in_edges = G.in_edges(n, data=True)
+        
         # Initialize weight counts
-        for sc, sk, _ in in_edges:
+        for sc, sk, _ in G.in_edges(n, data=True):
             G.edge[sc][sk]['weight_ct'] = 0
         
         if d['reassortant']:
-            for e1, e2 in combinations(in_edges, 2):
+            for e1, e2 in combinations(G.in_edges(n, data=True), 2):
                 sc1, sk1, d1 = e1
                 sc2, sk2, d2 = e2
 
@@ -73,7 +73,7 @@ def impute_weights(G):
                     G.edge[sc2][sk2]['weight_ct'] += 1
 
         if not d['reassortant']:
-            for sc, sk, d in in_edges:
+            for sc, sk, d in G.in_edges(n, data=True):
                 G.edge[sc][sk]['weight_ct'] += 1
 
         weight_ct_total = sum([d['weight_ct'] for sc, sk, d in G.in_edges(n, data=True)])
