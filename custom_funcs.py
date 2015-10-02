@@ -64,7 +64,8 @@ def impute_weights(G):
             for e1, e2 in combinations(G.in_edges(n, data=True), 2):
                 sc1, sk1, d1 = e1
                 sc2, sk2, d2 = e2
-
+                
+                # Grab out the segments.
                 segs1 = d1['segments'].keys()
                 segs2 = d2['segments'].keys()
 
@@ -85,6 +86,12 @@ def impute_weights(G):
             else:
                 G.edge[sc][sk]['weight'] = 0
 
+    return G
+
+def remove_zero_weighted_edges(G):
+    for sc, sk, d in G.edges(data=True):
+        if d['weight'] == 0:
+            G.remove_edge(sc, sk)
     return G
 
 def impute_reassortant_status(G):
