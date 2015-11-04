@@ -1,0 +1,85 @@
+
+
+IMPORTANT WARNING: Sequences American_Green-Winged_Teal.Anas_carolinensis and Green-Winged_Teal.Anas_carolinensis are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file host_coi_nogaps.fasta.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.4 released by Alexandros Stamatakis on October 02 2015.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+
+Alignment has 251 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.00%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 3 inferences on the original alignment using 3 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 251
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -p 100 -# 3 -m GTRGAMMA -s host_coi_nogaps.fasta -n host_coi_nogaps.tree -T 2 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.255 0.329 0.166 0.250 
+
+Inference[0]: Time 24.132310 GAMMA-based likelihood -8928.657893, best rearrangement setting 5
+alpha[0]: 0.200413 rates[0] ac ag at cg ct gt: 3.102254 17.732614 2.592438 0.146821 27.077978 1.000000 
+Inference[1]: Time 21.886078 GAMMA-based likelihood -8929.600313, best rearrangement setting 5
+alpha[0]: 0.203357 rates[0] ac ag at cg ct gt: 3.011004 18.229455 2.811823 0.176256 27.303312 1.000000 
+Inference[2]: Time 20.637744 GAMMA-based likelihood -8929.268287, best rearrangement setting 10
+alpha[0]: 0.205548 rates[0] ac ag at cg ct gt: 3.412104 20.012952 2.977973 0.215056 30.239899 1.000000 
+
+
+Conducting final model optimizations on all 3 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -8928.655684 tree written to file /home/ericmjl/influenza-global-reassortment/RAxML_result.host_coi_nogaps.tree.RUN.0
+Inference[1] final GAMMA-based Likelihood: -8929.870075 tree written to file /home/ericmjl/influenza-global-reassortment/RAxML_result.host_coi_nogaps.tree.RUN.1
+Inference[2] final GAMMA-based Likelihood: -8929.398095 tree written to file /home/ericmjl/influenza-global-reassortment/RAxML_result.host_coi_nogaps.tree.RUN.2
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -8928.655684 .... 
+
+Final GAMMA-based Score of best tree -8928.655684
+
+Program execution info written to /home/ericmjl/influenza-global-reassortment/RAxML_info.host_coi_nogaps.tree
+Best-scoring ML tree written to: /home/ericmjl/influenza-global-reassortment/RAxML_bestTree.host_coi_nogaps.tree
+
+Overall execution time: 78.017753 secs or 0.021672 hours or 0.000903 days
+
